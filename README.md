@@ -18,7 +18,6 @@ Atualmente, estou focado em construir uma base sólida em programação, explora
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel200617&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel200617&layout=compact&theme=radical)
 
 ---
