@@ -26,7 +26,7 @@ Atualmente, estou focado em construir uma base sólida em engenharia de software
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel200617&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel200617&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
